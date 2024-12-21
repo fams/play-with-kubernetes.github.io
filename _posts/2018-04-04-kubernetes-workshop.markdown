@@ -5,6 +5,7 @@ date:   2017-12-07
 author: "@jpetazzo"
 tags: [beginner, linux, operations, kubernetes, developer]
 categories: beginner
+image: fams/k8s
 terms: 2
 ---
 
